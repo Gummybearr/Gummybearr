@@ -7,8 +7,12 @@ Thanks for visiting my github:)
 
 ### 🤔Algorithm and Problem Solving
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyunghoe)](https://solved.ac/gyunghoe) 　　 
-[![Codeforces 프로필](http://cf-ratings.site:8000/api/user?handle=gyunghoe_)](https://codeforces.com/profile/gyunghoe_)
+
+this field should change
+
+[![Codeforces profile](http://cf-ratings.site:8000/api/user?handle=gyunghoe_)](https://codeforces.com/profile/gyunghoe_)
 <br/>
+
 
 
 ### 📝Github stats
