@@ -7,7 +7,7 @@ Thanks for visiting my github:)
 
 ### 🤔Algorithm and Problem Solving
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyunghoe)](https://solved.ac/gyunghoe) 　　 
-[![Codeforces 프로필](http://cf-ratings.site:8000/api/user?handle=tourist)](https://codeforces.com/profile/gyunghoe_)
+[![Codeforces 프로필](http://cf-ratings.site:8000/api/user?handle=juney)](https://codeforces.com/profile/gyunghoe_)
 <br/>
 
 
