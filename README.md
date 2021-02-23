@@ -2,6 +2,7 @@
 
 ### Hi there 👋
 Thanks for visiting my github:)
+
 Visit my [📑 notion ](https://www.notion.so/375d5c7ce35042538e7c11645111c1ba) to check out my study notes!
 <br/>
 
