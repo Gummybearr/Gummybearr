@@ -16,7 +16,6 @@ Visit my [📑 notion ](https://www.notion.so/375d5c7ce35042538e7c11645111c1ba) 
 ### 📝Github stats
 [![Gyunghoe's github stats](https://github-readme-stats.vercel.app/api?username=Gummybearr&show_icons=true&hide_border=true)](https://github.com/Gummybearr)
 [![Gyunghoe's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gummybearr&layout=compact&&hide_border=true)](https://github.com/Gummybearr)
-[![Gyunghoe's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gummybearr&layout=compact&&hide_border=true)](https://github.com/Gummybearr)
 <br/>
 
 
