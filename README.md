@@ -9,8 +9,6 @@
 * [✍️ 문제를 해결한 경험을 Velog에 기록하고 있어요](https://velog.io/@gyunghoe)
 * [🤔 알고리즘 사이트에서 gyunghoe로 활동하고 있어요](https://solved.ac/gyunghoe)
 
-<br/>
-
 ### 기술 스택
 
 <hr>
@@ -43,13 +41,10 @@
 * 개발과 관련된 영상을 자주 봐요, 그 중에서도 테크 세미나 영상을 주로 보면서 영감을 얻어요
 * [개인 프로젝트](https://github.com/Gummybearr/Recruit_Bot_Skeleton_Code)를 꾸준히 개발하고 있어요. 
 
-<br/>
-
 ### 📝 Github stats
 <hr>
 
 [![Gyunghoe's github stats](https://github-readme-stats.vercel.app/api?username=Gummybearr&show_icons=true&hide_border=true)](https://github.com/Gummybearr)
-<br/>
 
 
 <!--
