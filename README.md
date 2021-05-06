@@ -3,7 +3,7 @@
 ## 안녕하세요 Gummybearr입니다👋
 
 ```html
-개발을 좋아하며 성장하는 것에 보람을 느껴요
+개발을 좋아하 성장하는 것에 보람을 느껴요
 ```
 - [📑 스터디 노트를 notion에 기록하고 있어요](https://www.notion.so/375d5c7ce35042538e7c11645111c1ba)
 - [✍️ 문제를 해결한 경험을 Velog에 기록하고 있어요](https://velog.io/@gyunghoe)
