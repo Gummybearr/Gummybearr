@@ -16,6 +16,7 @@
 ```html
 Backend
 - Java
+- Kotlin
 - Spring Boot
 - JPA
 
@@ -24,6 +25,8 @@ Database
 
 ETC
 - Docker-compose
+- Kafka
+- Redis
 ```
 
 ### 👀 가끔 사용해요
