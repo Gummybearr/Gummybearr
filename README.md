@@ -19,6 +19,7 @@ Backend
 - Kotlin
 - Spring Boot
 - JPA
+- QueryDSL
 
 Database
 - MySQL
@@ -36,7 +37,7 @@ Backend
 
 Frontend
 - React
-- Javascript
+- Javascript / Typescript
 ```
 
 ## 취미
