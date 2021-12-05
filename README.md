@@ -42,7 +42,7 @@ Frontend
 
 ## 취미
 - 개발과 관련된 영상을 자주 봐요, 그 중에서도 테크 세미나 영상을 주로 보면서 영감을 얻어요
-- [개인 프로젝트](https://github.com/Gummybearr/Recruit_Bot_Skeleton_Code)를 꾸준히 개발하고 있어요. 
+- [개인 프로젝트](https://github.com/Gummybearr/Recruit_Bot_Skeleton_Code), [사이드 프로젝트](https://github.com/dokevProject/dokev-server)를 개발하고 있어요. 
 
 ## 📝 기타
 
