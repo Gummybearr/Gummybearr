@@ -46,7 +46,7 @@ Frontend
 
 ## 📝 기타
 
-[![Gyunghoe's github stats](https://github-readme-stats.vercel.app/api?username=Gummybearr&show_icons=true&hide_border=true)](https://github.com/Gummybearr)
+[![Gyunghoe's github stats](https://github-readme-stats.vercel.app/api?username=Gummybearr&show_icons=true&hide_border=true?count_private=true)](https://github.com/Gummybearr)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyunghoe)](https://solved.ac/gyunghoe) 　
 
 <!--
