@@ -1,5 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGummybearr&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+ 
 ## Hi, I'm Dale 👋
 
 ```html
@@ -44,7 +45,7 @@ Frontend
 - I watch, read stuffs related to software. Tech conference, video, blog postings, you name it.
 - Work on [Recruit Service Alert](https://github.com/Gummybearr/Recruit_Bot_Skeleton_Code), [Dokev](https://github.com/dokevProject/dokev-server) 
 
-## 📝 Stats
+## Stats
 
 [![Gyunghoe's github stats](https://github-readme-stats.vercel.app/api?username=Gummybearr&show_icons=true&hide_border=true&count_private=true)](https://github.com/Gummybearr)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyunghoe)](https://solved.ac/gyunghoe) 　
