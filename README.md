@@ -1,21 +1,20 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGummybearr&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-## 안녕하세요 Gummybearr입니다👋
+## Hi, I'm Dale 👋
 
 ```html
-개발을 좋아하고 성장하는 것에 보람을 느껴요 🥰
+Software is cool
 ```
-- [📑 스터디 노트를 notion에 기록하고 있어요](https://www.notion.so/375d5c7ce35042538e7c11645111c1ba)
-- [✍️ 문제를 해결한 경험을 Velog에 기록하고 있어요](https://velog.io/@gyunghoe)
-- [🤔 알고리즘 사이트에서 gyunghoe로 활동하고 있어요](https://solved.ac/gyunghoe)
+- [✍️ Study Note](https://velog.io/@gyunghoe)
+- [🤔 Problem Solving](https://solved.ac/gyunghoe)
+- [📑 Etc](https://www.notion.so/375d5c7ce35042538e7c11645111c1ba)
 
-## 기술스택
+## Tech
 
-### 🧑‍💻 업무에 주로 사용해요
+### 🧑‍💻 Mainly using
 
 ```html
 Backend
-- Java
 - Kotlin
 - Spring Boot
 - JPA
@@ -30,9 +29,10 @@ ETC
 - Redis
 ```
 
-### 👀 가끔 사용해요
+### 👀 Sometimes using
 ```html
 Backend
+- Java
 - Python
 
 Frontend
@@ -40,14 +40,14 @@ Frontend
 - Javascript / Typescript
 ```
 
-## 취미
-- 개발과 관련된 영상을 자주 봐요, 그 중에서도 테크 세미나 영상을 주로 보면서 영감을 얻어요
-- [개인 프로젝트](https://github.com/Gummybearr/Recruit_Bot_Skeleton_Code), [사이드 프로젝트](https://github.com/dokevProject/dokev-server)를 개발하고 있어요. 
+## What I do in free time
+- I watch, read stuffs related to software. Tech conference, video, blog postings, you name it.
+- Work on [Recruit Service Alert](https://github.com/Gummybearr/Recruit_Bot_Skeleton_Code), [Dokev](https://github.com/dokevProject/dokev-server) 
 
-## 📝 기타
+## 📝 Stats
 
 [![Gyunghoe's github stats](https://github-readme-stats.vercel.app/api?username=Gummybearr&show_icons=true&hide_border=true&count_private=true)](https://github.com/Gummybearr)
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyunghoe)](https://solved.ac/gyunghoe) 　
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyunghoe)](https://solved.ac/gyunghoe) 　
 
 <!--
 **Gummybearr/Gummybearr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
