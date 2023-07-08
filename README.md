@@ -23,11 +23,14 @@ Backend
 
 Database
 - MySQL
+- Redis
+- DynamoDB
+- S3
 
 ETC
-- Docker-compose
+- Kubernetes
 - Kafka
-- Redis
+- Git
 ```
 
 ### 👀 Sometimes using
@@ -41,6 +44,9 @@ Frontend
 - Flutter
 - React
 - Javascript / Typescript
+
+ETC
+- Aws 이것저것
 ```
 
 ## What I do in free time
