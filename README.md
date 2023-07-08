@@ -33,17 +33,19 @@ ETC
 ### 👀 Sometimes using
 ```html
 Backend
+- Golang
 - Java
 - Python
 
 Frontend
+- Flutter
 - React
 - Javascript / Typescript
 ```
 
 ## What I do in free time
 - I watch, read stuffs related to software. Tech conference, video, blog postings, you name it.
-- Work on [Recruit Service Alert](https://github.com/Gummybearr/Recruit_Bot_Skeleton_Code), [Dokev](https://github.com/dokevProject/dokev-server) 
+- Work on [Recruit Service Alert](https://github.com/Gummybearr/Recruit_Bot_Skeleton_Code), Doit-Tweet
 
 ## Stats
 
