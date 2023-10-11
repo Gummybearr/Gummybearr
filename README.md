@@ -51,7 +51,7 @@ ETC
 
 ## What I do in free time
 - I watch, read stuffs related to software. Tech conference, video, blog postings, you name it.
-- Trying to make [PlanTail]([https://github.com/Gummybearr/Recruit_Bot_Skeleton_Code](https://github.com/Gummybearr/plantail) a productivity app that is one of a kind
+- Trying to make [PlanTail](https://github.com/Gummybearr/plantail) a productivity app that is one of a kind
 
 ## Stats
 
