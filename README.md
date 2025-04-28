@@ -1,57 +1,47 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGummybearr&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
- 
 ## Hi, I'm Dale 👋
 
 ```html
-Software is cool
+Software engineering is a tool I use to make something people want.
 ```
-- [✍️ Study Note](https://velog.io/@gyunghoe)
-- [🤔 Problem Solving](https://solved.ac/gyunghoe)
-- [📑 Etc](https://www.notion.so/375d5c7ce35042538e7c11645111c1ba)
+- [✍️ Blog](https://velog.io/@gyunghoe)
 
 ## Tech
 
-### 🧑‍💻 Mainly using
-
 ```html
-Backend
+Languages
+- Python
 - Kotlin
-- Spring Boot
-- JPA
-- QueryDSL
+- Go
+- Typescript
 
-Database
+Frameworks & Tools
+- Langgraph
+- FastAPI
+- React
+- Spring
+
+Infrastructure & ETC
 - MySQL
 - Redis
-- DynamoDB
-- S3
-
-ETC
-- Kubernetes
 - Kafka
-- Git
-```
-
-### 👀 Sometimes using
-```html
-Backend
-- Golang
-- Java
-- Python
-
-Frontend
-- Flutter
-- React
-- Javascript / Typescript
-
-ETC
-- Aws 이것저것
+- DynamoDB
+- Kubernetes
+- Helm
+- AWS & GCP
 ```
 
 ## What I do in free time
-- I watch, read stuffs related to software. Tech conference, video, blog postings, you name it.
-- Trying to make [PlanTail](https://github.com/Gummybearr/plantail) a productivity app that is one of a kind
+- I watch stuffs related to entrepreneurship or software engineering.
+- I make MVPs with/without software to learn and unlearn.
+- Talk to users I don't know to test product hypothesis
+
+
+## Products I launched
+- [PlanTail](https://github.com/Gummybearr/plantail) : A todo list you can user with your friends, 2K+ user generated todos.
+- [Flyer](https://flyer.framer.website/) : A User Test platform for early-stage mobile apps, some apps are now generating revenues.
+- [h1bl1visa.com](https://h1bl1visa.com) : Trustworthy data hub for Korean software engineers seeking for jobs in the U.S. Went viral.
+- [Korea Relocation Buddy](https://korearelocationbuddy.com) : Korean local buddy matching service for expats living in Korea.
+  
 
 ## Stats
 
