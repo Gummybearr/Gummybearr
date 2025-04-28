@@ -4,6 +4,9 @@
 Software engineering is a tool I use to make something people want.
 ```
 - [✍️ Blog](https://velog.io/@gyunghoe)
+- [Ads Platform 101 part 1: Overview](https://about.daangn.com/blog/archive/%EB%8B%B9%EA%B7%BC-%EA%B4%91%EA%B3%A0%EC%8B%A4-%EB%8F%99%EB%84%A4-%EC%82%AC%EC%9E%A5%EB%8B%98-%EA%B4%91%EA%B3%A0/)
+- [Ads Platform 101 part 2: Advertiser Side](https://about.daangn.com/blog/archive/%EB%8B%B9%EA%B7%BC-%EA%B4%91%EA%B3%A0-%EA%B0%9C%EB%B0%9C%EC%9E%90-dsp/)
+- [Ads Platform 101 part 3: Platform Side](https://about.daangn.com/blog/archive/%EB%8B%B9%EA%B7%BC-%EA%B4%91%EA%B3%A0%EC%8B%A4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%84%9C%EB%B2%84-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-dsp/)
 
 ## Tech
 
