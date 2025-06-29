@@ -37,6 +37,7 @@ Infrastructure & ETC
 - I watch stuffs related to entrepreneurship or software engineering.
 - I make MVPs with/without software to learn and unlearn.
 - Talk to users I don't know to test product hypothesis
+- Study and practice SEO
 
 
 ## Products I launched
